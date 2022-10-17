@@ -1,0 +1,45 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: larger;
+}
+.box{
+    width: 600px;
+    background-color: rgb(57, 41, 19);
+    border: 1px solid black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+h2{
+    color: rgb(25, 47, 47);
+    font-style: italic;
+}
+.heead{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    color:rgb(38, 38, 27);
+    margin-bottom:20px;
+}
+
+.card-text{
+    background-color: blueviolet;
+    padding: 10px;
+    margin-bottom: auto;
+}
+
+.card-header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 26px;
+    color: white;
+    
+    
+}
+
+.alfa{
+    background-color: aquamarine;
+    border: 2px solid black;
+}
